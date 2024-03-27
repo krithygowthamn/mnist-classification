@@ -30,7 +30,7 @@ The task is to classify a given image of a handwritten digit into one of 10 clas
 
 ### Name:GOWTHAM N
 ### Register Number: 212222220013
-```
+```python
 import numpy as np
 from tensorflow import keras
 from tensorflow.keras import layers
